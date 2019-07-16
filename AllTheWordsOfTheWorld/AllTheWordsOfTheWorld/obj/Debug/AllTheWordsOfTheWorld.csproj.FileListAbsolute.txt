@@ -1,0 +1,11 @@
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\bin\Debug\AllTheWordsOfTheWorld.exe.config
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\bin\Debug\AllTheWordsOfTheWorld.exe
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\bin\Debug\AllTheWordsOfTheWorld.pdb
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\obj\Debug\AllTheWordsOfTheWorld.csprojAssemblyReference.cache
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\obj\Debug\AllTheWordsOfTheWorld.frmMain.resources
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\obj\Debug\AllTheWordsOfTheWorld.Properties.Resources.resources
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\obj\Debug\AllTheWordsOfTheWorld.csproj.GenerateResource.cache
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\obj\Debug\AllTheWordsOfTheWorld.csproj.CoreCompileInputs.cache
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\obj\Debug\AllTheWordsOfTheWorld.exe
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\obj\Debug\AllTheWordsOfTheWorld.pdb
+E:\VS_Projects\2017\C#\2019\French\AllTheWordsOfTheWorld\AllTheWordsOfTheWorld\obj\Debug\AllTheWordsOfTheWorld.EditEntry.resources
